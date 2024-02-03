@@ -1,0 +1,130 @@
+div {
+    margin-bottom: 50px;
+}
+
+body {
+    font-family: Arial;
+}
+
+.a-name{
+    display: block;
+    margin-bottom: 5px;
+}
+
+.b-paragraph {
+    width: 225px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.lesson-c {
+    width: 750px;
+    text-align: center;
+}
+
+.lesson-8c {
+    text-align: left;
+}
+
+.google-logo {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.google-search {
+    margin-top: 30px;
+    border: 1px solid rgb(209, 209, 209);
+    border-radius: 25px;
+    height: 35px;
+    width: 600px;
+    padding-left: 10px;
+    box-shadow: 2px 2px 5px rgb(209, 209, 209);
+}
+
+.first-name {
+    border-radius: 5px;
+    border: 1px solid rgb(200, 200, 200);
+    height: 35px;
+    width: 125px;
+    padding-left: 10px;
+}
+
+.last-name {
+    border-radius: 5px;
+    border: 1px solid rgb(200, 200, 200);
+    height: 35px;
+    width: 125px;
+    padding-left: 10px;
+}
+
+.d-email {
+    margin-top: 10px;
+    display: block;
+    width: 255px;
+    border: 1px solid rgb(200, 200, 200);
+    border-radius: 5px;
+    height: 35px;
+    padding-left: 10px;
+}
+
+.sign-up {
+    background-color: rgb(22, 127, 238);
+    border: none;
+    color: white;
+    height: 35px;
+    width: 255px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.request {
+    font-size: 30px;
+}
+
+.pickup-location {
+    border: none;
+    color: grey;
+    background-color: rgb(235, 235, 235);
+    border-radius: 5px;
+    height: 35px;
+    width: 300px;
+    padding-left: 10px;
+    display: block;
+}
+
+.destination {
+    margin-top: 5px;
+    border: none;
+    color: grey;
+    background-color: rgb(235, 235, 235);
+    border-radius: 5px;
+    height: 35px;
+    width: 300px;
+    padding-left: 10px;
+    display: block;
+}
+
+.request-button {
+    background-color: black;
+    border: none;
+    color: white;
+    height: 34px;
+    width: 90px;
+    font-size: 11px;
+    display: inline-block;
+    margin-top: 30px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.schedule {
+    margin-top: 30px;
+    background-color: rgb(235, 235, 235);
+    border: none;
+    height: 36px;
+    width: 125px;
+    font-size: 11px;
+    vertical-align: middle;
+}
