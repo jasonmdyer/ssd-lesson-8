@@ -77,6 +77,7 @@ body {
     width: 255px;
     border-radius: 5px;
     margin-top: 10px;
+    cursor: pointer;
 }
 
 .request {
@@ -117,6 +118,7 @@ body {
     margin-top: 30px;
     vertical-align: middle;
     margin-right: 10px;
+    cursor: pointer;
 }
 
 .schedule {
@@ -127,4 +129,5 @@ body {
     width: 125px;
     font-size: 11px;
     vertical-align: middle;
+    cursor: pointer;
 }
